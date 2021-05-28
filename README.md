@@ -13,7 +13,7 @@ VictoriaMetrics и мониторинг приватных облаков. Па�
 Prometheus и VictoriaMetrics: отказоустойчивая инфраструктура для хранения метрик | [habr](https://habr.com/ru/company/miro/blog/531880/) |
 Бенчмарк Prometheus vs VictoriaMetrics на метриках node_exporter | [habr](https://habr.com/ru/company/otus/blog/541640/) | 
 VictoriaMetrics AMA session | [habr](https://habr.com/ru/post/494034/) | [link1](https://youtu.be/GSzevUBhxeM) [link2](https://youtu.be/Ah8khDmBP3o)
-Метрики [05] k8s mini cluster step by step | [guthub](https://github.com/BigKAA/youtube/tree/master/k8s-step-by-step/04-monitoring%20victoriametrics%20%2B%20prometheus) | [link1](https://youtu.be/nEzXmDYDqg8) [link2](https://youtu.be/trHNN-X_BUE)
+Метрики [05] k8s mini cluster step by step | [github](https://github.com/BigKAA/youtube/tree/master/k8s-step-by-step/04-monitoring%20victoriametrics%20%2B%20prometheus) | [link1](https://youtu.be/nEzXmDYDqg8) [link2](https://youtu.be/trHNN-X_BUE)
 Метрики только victoriametrics [07] k8s mini cluster step by step | [github](https://github.com/BigKAA/youtube/tree/master/k8s-step-by-step/05-monitoring%20victoriametrics%20only) | [link](https://youtu.be/4f_UYSeoJrs)
 Свежий взгляд на гистограммы в мониторинге | | [link](https://youtu.be/h6UgWkCZlxM)
 Сбор метрик с помощью Prometheus и VictoriaMetrics | | [link](https://youtu.be/JA1HbAaF9mg?list=PLRQ_gUZhiTmvLZvRjpvuluog4f2TfV8Bt)
