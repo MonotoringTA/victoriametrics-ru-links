@@ -8,7 +8,7 @@ Name | Post | YouTube
 Высокопроизводительный TSDB benchmark VictoriaMetrics vs TimescaleDB vs InfluxDB | [habr](https://habr.com/ru/post/508362/) | [link](https://youtu.be/lWYaiagvmfw)
 Грехи оптимизации производительности | [habr](https://habr.com/ru/post/509240/) | [link](https://youtu.be/ewmUUC1rF28)
 Язык запросов для TSDB. Улучшаем PromQL | [habr](https://habr.com/ru/post/514666/) | [link](https://youtu.be/o6cvXGjXd34)
-VictoriaMetrics и мониторинг приватных облаков. Павел Колобаев |  | [link](https://youtu.be/74swsWqf0Uc)
+VictoriaMetrics и мониторинг приватных облаков. Павел Колобаев | [habr](https://habr.com/ru/post/518680/) | [link](https://youtu.be/74swsWqf0Uc)
 Как в Smarkets улучшили мониторинг для своих Kubernetes-кластеров | [habr](https://habr.com/ru/company/flant/blog/528446/) | 
 Prometheus и VictoriaMetrics: отказоустойчивая инфраструктура для хранения метрик | [habr](https://habr.com/ru/company/miro/blog/531880/) |
 Бенчмарк Prometheus vs VictoriaMetrics на метриках node_exporter | [habr](https://habr.com/ru/company/otus/blog/541640/) | 
