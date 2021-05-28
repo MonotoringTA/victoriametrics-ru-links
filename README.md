@@ -1,4 +1,4 @@
-## List of Russian language Post and YouTube videos about VIctoriaMetrics
+## Список постов и видеозаписей об VictoriaMetrics на русском языке
 
 Name | Post | YouTube
 ------------ | ------------- | -------------
