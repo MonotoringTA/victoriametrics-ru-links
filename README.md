@@ -6,7 +6,7 @@ Name | Post | YouTube
 Оптимизация Go в VictoriaMetrics | [habr](https://habr.com/ru/post/500844/) | [link](https://youtu.be/MZ5P21j_HLE)
 Выбираем хранилище данных для Prometheus: Thanos vs VictoriaMetrics | [habr](https://habr.com/ru/post/482272/) | [link](https://youtu.be/HyOXAdQE0Pk)
 Высокопроизводительный TSDB benchmark VictoriaMetrics vs TimescaleDB vs InfluxDB | [habr](https://habr.com/ru/post/508362/) | [link](https://youtu.be/lWYaiagvmfw)
-Грехи оптимизации производительности |  | [link](https://youtu.be/ewmUUC1rF28)
+Грехи оптимизации производительности | [habr](https://habr.com/ru/post/509240/) | [link](https://youtu.be/ewmUUC1rF28)
 Язык запросов для TSDB. Улучшаем PromQL | [habr](https://habr.com/ru/post/514666/) | [link](https://youtu.be/o6cvXGjXd34)
 VictoriaMetrics и мониторинг приватных облаков. Павел Колобаев |  | [link](https://youtu.be/74swsWqf0Uc)
 Как в Smarkets улучшили мониторинг для своих Kubernetes-кластеров | [habr](https://habr.com/ru/company/flant/blog/528446/) | 
