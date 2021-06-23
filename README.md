@@ -18,4 +18,4 @@ Prometheus и VictoriaMetrics: отказоустойчивая инфрастр
 Свежий взгляд на гистограммы в мониторинге | | [link](https://youtu.be/h6UgWkCZlxM)
 Сбор метрик с помощью Prometheus и VictoriaMetrics | | [link](https://youtu.be/JA1HbAaF9mg?list=PLRQ_gUZhiTmvLZvRjpvuluog4f2TfV8Bt)
 Написание оператора для kubernetes | | [link](https://youtu.be/h-6Pcw6jYCU)
-Vmagent - комбайн для мониторинга | | [link](https://youtu.be/A1zRkSdWPJg)
+vmagent - комбайн для мониторинга | | [link](https://youtu.be/A1zRkSdWPJg)
