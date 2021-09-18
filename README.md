@@ -21,4 +21,4 @@ Prometheus и VictoriaMetrics: отказоустойчивая инфрастр
 vmagent - комбайн для мониторинга | | [link](https://youtu.be/A1zRkSdWPJg)
 Платформа обработки данных Билайн | [habr](https://habr.com/ru/company/beeline/blog/567508/) |
 Monitoring as Code на базе VictoriaMetrics и Grafana | [habr](https://habr.com/ru/post/568090/) |
-
+Monitoring vs Observability: VictoriaMetrics в гостях у DevOps Kitchen Talks | | [link](https://www.youtube.com/watch?v=5FTcJmJXbqA)
