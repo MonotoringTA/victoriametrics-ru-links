@@ -23,5 +23,7 @@ vmagent - комбайн для мониторинга | | [link](https://youtu.
 Monitoring as Code на базе VictoriaMetrics и Grafana | [habr](https://habr.com/ru/post/568090/) |
 Monitoring vs Observability: VictoriaMetrics в гостях у DevOps Kitchen Talks | | [link](https://www.youtube.com/watch?v=5FTcJmJXbqA)
 Kubernetes monitoring: от простого к сложному | [habr](https://habr.com/ru/post/586206/) | [link](https://www.youtube.com/watch?v=cdPKMshnk3M)
-Применение Victoriametrics для мониторинга по SNMP | [link](https://v98765.github.io/monitoring/a1) | 
-Применение Victoriametrics для мониторинга VMware vCenter | [link](https://v98765.github.io/monitoring/a2/) | 
+Применение Victoriametrics для мониторинга по SNMP | [link](https://v98765.github.io/monitoring/a1) |
+Применение Victoriametrics для мониторинга VMware vCenter | [link](https://v98765.github.io/monitoring/a2/) |
+Мощный Managed Kubernetes бесплатно и надолго (для экспериментов и не только) | [habr](https://habr.com/ru/post/650017/) |
+Как мы пытались подружить VictoriaMetrics и Thanos (и у нас почти получилось) | [habr](https://habr.com/ru/company/sravni/blog/672908/) |
